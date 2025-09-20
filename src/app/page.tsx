@@ -666,7 +666,7 @@ export default function Home() {
               {/* Copyright */}
               <div>
                 <p className="text-gray-300 text-sm" style={{ fontFamily: "Roboto, sans-serif" }}>
-                  © 2022 NEBULOUS. ALL RIGHTS RESERVED
+                  © 2025 Aquasense. ALL RIGHTS RESERVED
                 </p>
               </div>
 
