@@ -20,6 +20,6 @@
     "@types/react-dom": "^19",
     "tailwindcss": "^4",
     "typescript": "^5",
-    "@opennextjs/cloudflare": "^1.18.0"
+    "@opennextjs/cloudflare": "^1.17.0"
   }
 }
